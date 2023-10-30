@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Edroedro
-- 👀 I’m interested in joebastianich
+- 👀 I’m interested in giobastianich
 - 🌱 I’m currently learning flavio08
 - 💞️ I’m looking to collaborate on exxeway
-- 📫 How to reach me: minecraft
+- 📫 How to reach me: sandrinho
 
 <!---
 Edroedro/Edroedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
